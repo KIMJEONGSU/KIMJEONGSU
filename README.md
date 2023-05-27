@@ -4,13 +4,13 @@
 
 ### hello?👋
 
-After graduating from the Department of Computer Engineering, he has collaborated with various departments in the aviation industry and performed general duties with smooth communication skills.
+After graduating from the Department of Computer Engineering, I have been working as the general manager of the airport with my ability to communicate effectively while collaborating with various departments.
 
 Currently, I am challenging myself to become a data analyst through boot camp.
 
-The most memorable project during the 7-month period is the Section project.
+The most memorable project during the 7 months was the team project.
 
-I think I learned the most by myself while proceeding from topic selection to planning using the contents I learned or new technology. Also, when various errors occurred, I learned how to solve them myself and share them with my motives to solve them together. I think these experiences will be of great help in developing the problem-solving and collaboration skills needed as a data analyst.
+I went from planning to implementation using the contents I learned or new technologies, and I think I learned the most by myself. In addition, when various errors occurred, I learned how to solve them myself and how to solve them together by sharing them with my motives. I think these experiences will be of great help in developing the problem-solving and collaboration skills needed as a data analyst.
 
 <br>
 
