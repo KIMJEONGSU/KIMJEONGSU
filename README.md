@@ -4,7 +4,7 @@
 
 ### hello?👋
 
-After graduating from the Department of Computer Engineering, I have been working as the general manager of the airport with my ability to communicate effectively while collaborating with various departments.
+After graduating from the Department of Computer Engineering, I worked as the general manager of the airport with the ability to communicate effectively while collaborating with various departments.
 
 Currently, I am challenging myself to become a data analyst through boot camp.
 
