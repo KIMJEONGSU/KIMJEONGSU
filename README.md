@@ -4,14 +4,6 @@
 
 ### hello?👋
 
-After graduating from the Department of Computer Engineering, I worked as the general manager of the airport with the ability to communicate effectively while collaborating with various departments.
-
-Currently, I am challenging myself to become a data analyst through boot camp.
-
-The most memorable project during the 7 months was the team project.
-
-I went from planning to implementation using the contents I learned or new technologies, and I think I learned the most by myself. In addition, when various errors occurred, I learned how to solve them myself and how to solve them together by sharing them with my motives. I think these experiences will be of great help in developing the problem-solving and collaboration skills needed as a data analyst.
-
 <br>
 
 <h1>Stacks</h1> 
