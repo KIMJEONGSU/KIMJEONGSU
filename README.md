@@ -3,7 +3,7 @@
 
 
 ### hello?👋
-
+<!--
 <br>
 
 <h2>⚙️Skills</h2> 
@@ -60,12 +60,12 @@
 
 
 
-<!--
+
 <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
 <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
 <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white"> 
 https://simpleicons.org/?q=flask
--->
+
 
 <br>
 
@@ -73,5 +73,5 @@ https://simpleicons.org/?q=flask
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMJEONGSU&show_icons=true&theme=radical)
 
-
+-->
 
