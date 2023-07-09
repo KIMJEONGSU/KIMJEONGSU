@@ -1,9 +1,13 @@
 
-<h2>💻INTRO</h2> 
-
-
 ### hello?👋
-<!--
+
+### Projects
+- 인도네시아 이커머스 플랫폼 개선 프로젝트 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/ecommerce)
+- 여행 경비 안내 웹 서비스 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/travel)
+- 리뷰 기반 맛집 추천 웹 서비스 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/restaurant)
+- Review를 통한 Musinsa 입점 브랜드 매출 극대화 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/review)
+
+
 <br>
 
 <h2>⚙️Skills</h2> 
@@ -26,7 +30,6 @@
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 <h4>Database & Cloud DB</h4>
@@ -41,7 +44,6 @@
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white">
   <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=metabase&logoColor=white">
-  <img src="https://img.shields.io/badge/metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white">
 </div>
 
 <h4>Version Control</h4>
@@ -56,9 +58,13 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 
+<h4>Back_end</h4>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+</div>
 
 
-
+<!--
 
 
 <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
