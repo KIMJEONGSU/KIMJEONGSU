@@ -1,16 +1,23 @@
 
-### hello?👋
+### 안녕하세요?👋 Data Engineer 김정수입니다.
+
+<br>
 
 ### Projects
-- 인도네시아 이커머스 플랫폼 개선 프로젝트 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/ecommerce)
+| 웹 서비스 구현 및 배포
 - 여행 경비 안내 웹 서비스 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/travel)
 - 리뷰 기반 맛집 추천 웹 서비스 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/restaurant)
+
+<br>
+
+| 데이터 분석 및 모델링
+- 인도네시아 이커머스 플랫폼 개선 프로젝트 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/ecommerce)
 - Review를 통한 Musinsa 입점 브랜드 매출 극대화 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/review)
 
 
 <br>
 
-<h2>⚙️Skills</h2> 
+### Skills 
 <h4>Programming & Markup Language</h4>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
