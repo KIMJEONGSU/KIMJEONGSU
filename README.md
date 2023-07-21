@@ -12,7 +12,7 @@
 
 | 데이터 분석 및 모델링
 - 인도네시아 이커머스 플랫폼 개선 프로젝트 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/ecommerce)
-- Review를 통한 Musinsa 입점 브랜드 매출 극대화 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/review)
+- Review 데이터를 통한 감정 분석 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/review)
 
 
 <br>
