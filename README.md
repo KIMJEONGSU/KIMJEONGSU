@@ -4,7 +4,6 @@
 
 ### Projects
 - 여행 경비 안내 웹 서비스 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/travel)
-- 리뷰 기반 맛집 추천 웹 서비스 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/restaurant)
 - 리뷰 데이터 파이프라인 구축과 모델 개발 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/review)
 - Django를 활용한 웹 구현 및 데이터 파이프라인 구축(진행중) 🔗 [바로가기](https://github.com/KIMJEONGSU/pipeline)
 
