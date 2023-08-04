@@ -3,8 +3,8 @@
 <br>
 
 ### Projects
-- 여행 경비 안내 웹 서비스 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/travel)
-- 리뷰 데이터 파이프라인 구축과 모델 개발 🔗 [바로가기](https://github.com/KIMJEONGSU/js_portfolio/tree/main/review)
+- 여행 경비 안내 웹 서비스 🔗 [바로가기](https://github.com/KIMJEONGSU/travel_web)
+- 리뷰 데이터 파이프라인 구축과 모델 개발 🔗 [바로가기](https://www.notion.so/Data-Engineer-883172ce6f694f58a0eb0a693a2f79d7?pvs=4#14b326bd351a4467a935e52df6e90e73)
 - Django를 활용한 웹 구현 및 데이터 파이프라인 구축(진행중) 🔗 [바로가기](https://github.com/KIMJEONGSU/pipeline)
 
 <br>
