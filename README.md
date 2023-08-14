@@ -9,7 +9,7 @@
 
 <br>
 
-- 활성 고객과 다회성 고객 비율 증가를 위한 이커머스 분석 🔗 [바로가기](https://github.com/KIMJEONGSU/ecommerce)
+- 인도네시아 이커머스 개선 프로젝트 🔗 [바로가기](https://github.com/KIMJEONGSU/ecommerce)
 - 브라질 이커머스 플랫폼 분석(진행중)
   
 <br>
