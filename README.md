@@ -6,7 +6,7 @@
 
 * Wed-Application, Pipeline
   - 김포-제주 극성수기 여행 경비 안내 웹 개발 🔗 [바로가기](https://github.com/KIMJEONGSU/travel_web)
-  - 리뷰 데이터 감정 분류 🔗 [바로가기](https://github.com/KIMJEONGSU/musinsa_pipeline)
+  - 리뷰 데이터 파이프라인 구축과 모델 개발 🔗 [바로가기](https://github.com/KIMJEONGSU/musinsa_pipeline)
   - Django를 활용한 웹 구현 및 데이터 파이프라인 구축(진행중) 
 
 <br>
