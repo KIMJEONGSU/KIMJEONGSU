@@ -11,7 +11,7 @@
 <br>
 
 * Data-Analysis
-  - 인도네시아 이커머스 개선 프로젝트 🔗 [바로가기](https://github.com/KIMJEONGSU/ecommerce)
+  - 매출 증가를 위한 데이터 분석 🔗 [바로가기](https://github.com/KIMJEONGSU/ecommerce)
   - 로그 분석을 통한 유저 행동 분석 🔗 [바로가기](https://github.com/KIMJEONGSU/logs)
 
 <br>
