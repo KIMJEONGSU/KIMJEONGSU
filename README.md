@@ -17,7 +17,10 @@
 <br>
 
 ### Skills 
-![image](https://github.com/KIMJEONGSU/KIMJEONGSU/assets/23291338/0ad2e7d2-1454-4bfb-8c6f-04c8c03347bc)
+![image](https://github.com/KIMJEONGSU/KIMJEONGSU/assets/23291338/f9721768-aaf4-44a0-bb98-610f75e6982f)
+
+
+
 
 
 <!--https://simpleicons.org/?q=flask-->
