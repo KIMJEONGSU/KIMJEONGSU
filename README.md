@@ -21,7 +21,8 @@
 <br>
 
 ## Skills 
-<img src="https://github.com/KIMJEONGSU/KIMJEONGSU/assets/23291338/b4add83b-38aa-4c9a-8eb1-8febcf547f09" width="50%" height="50%" />
+<img src="https://github.com/KIMJEONGSU/KIMJEONGSU/assets/23291338/9dd52f01-979e-45b2-bf8c-59f3c5f4fe01" width="50%" height="50%" />
+
 
 <!--https://simpleicons.org/?q=flask-->
 
