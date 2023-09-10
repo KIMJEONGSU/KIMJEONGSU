@@ -16,7 +16,7 @@
 * Web-Application, Pipeline
   
   - [김포-제주 극성수기 여행 경비 안내 웹 서비스](https://github.com/KIMJEONGSU/travel_web)
-  - [리뷰 데이터 파이프라인 구축과 모델 개발](https://github.com/KIMJEONGSU/musinsa_pipeline)
+  - [파이프라인 구축과 리뷰 감정 분석](https://github.com/KIMJEONGSU/musinsa_pipeline)
 
 <br>
 
