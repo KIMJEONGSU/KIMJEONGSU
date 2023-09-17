@@ -5,7 +5,7 @@
 
 ## Projects
 
-* Data-Analysis
+* Data-Analysis / ML
 
   - [Olist 오픈 마켓 플랫폼 분석](https://github.com/DEAProject4/PROJECT)
   - [로그 데이터를 통한 퍼널 분석](https://github.com/KIMJEONGSU/logs)
