@@ -7,7 +7,7 @@
 
 * Data-Analysis / ML
 
-  - [Olist 오픈 마켓 플랫폼 분석](https://github.com/DEAProject4/PROJECT)
+  - [Olist 오픈 마켓 플랫폼 분석](https://github.com/KIMJEONGSU/PROJECT)
   - [로그 데이터를 통한 퍼널 분석](https://github.com/KIMJEONGSU/logs)
   - [매출 증가를 위한 데이터 분석 및 이탈 예측 모델 구현](https://github.com/KIMJEONGSU/ecommerce)
 
