@@ -8,7 +8,7 @@
 * Data-Analysis / ML
 
   - [유입 채널별 고객 생애 가치를 통한 전환율 상승 프로젝트](https://github.com/KIMJEONGSU/PROJECT)
-  - [퍼널 분석을 통한 애츨리케이션 개선](https://github.com/KIMJEONGSU/logs)
+  - [퍼널 분석을 통한 애플리케이션 개선](https://github.com/KIMJEONGSU/logs)
   - [Fashion Campus의 매출 증가를 위한 인사이트 도출과 이탈 예측 모델 구현](https://github.com/KIMJEONGSU/ecommerce)
 
 <br>
